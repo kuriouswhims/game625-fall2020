@@ -1,0 +1,2191 @@
+fileFormatVersion: 2
+guid: cc65c006140b8374e916de85f001e408
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5291674572617176439
+    second: more_ground_redone_0
+  - first:
+      213: 954619619379180287
+    second: more_ground_redone_1
+  - first:
+      213: -7661217824062436610
+    second: more_ground_redone_2
+  - first:
+      213: -1580877099945400408
+    second: more_ground_redone_3
+  - first:
+      213: -4697073889009148
+    second: more_ground_redone_4
+  - first:
+      213: 4208455542037465948
+    second: more_ground_redone_5
+  - first:
+      213: 5379528325260395772
+    second: more_ground_redone_6
+  - first:
+      213: 8933673519549040873
+    second: more_ground_redone_7
+  - first:
+      213: -4100872259001621337
+    second: more_ground_redone_8
+  - first:
+      213: -1468959085778969262
+    second: more_ground_redone_9
+  - first:
+      213: -9168330278286208928
+    second: more_ground_redone_10
+  - first:
+      213: -461227105197496648
+    second: more_ground_redone_11
+  - first:
+      213: -8093913582393135392
+    second: more_ground_redone_12
+  - first:
+      213: 1214164149439256155
+    second: more_ground_redone_13
+  - first:
+      213: 8253188677168505487
+    second: more_ground_redone_14
+  - first:
+      213: 180785767976457940
+    second: more_ground_redone_15
+  - first:
+      213: 7201221346305844171
+    second: more_ground_redone_16
+  - first:
+      213: 8605588040525597750
+    second: more_ground_redone_17
+  - first:
+      213: -8227242239638649284
+    second: more_ground_redone_18
+  - first:
+      213: -5840431712146902515
+    second: more_ground_redone_19
+  - first:
+      213: 7712745504575166499
+    second: more_ground_redone_20
+  - first:
+      213: 6590731564064537389
+    second: more_ground_redone_21
+  - first:
+      213: 7269015508116805415
+    second: more_ground_redone_22
+  - first:
+      213: -3770565915976017789
+    second: more_ground_redone_23
+  - first:
+      213: 1115497061712012547
+    second: more_ground_redone_24
+  - first:
+      213: 1848404042544477501
+    second: more_ground_redone_25
+  - first:
+      213: 8851008367657697254
+    second: more_ground_redone_26
+  - first:
+      213: 2685352372021740808
+    second: more_ground_redone_27
+  - first:
+      213: -4001178041198786747
+    second: more_ground_redone_28
+  - first:
+      213: 5158959744357698846
+    second: more_ground_redone_29
+  - first:
+      213: 1515187765256676510
+    second: more_ground_redone_30
+  - first:
+      213: -1412689247518848216
+    second: more_ground_redone_31
+  - first:
+      213: -7256912925796160792
+    second: more_ground_redone_32
+  - first:
+      213: -5147935288412724545
+    second: more_ground_redone_33
+  - first:
+      213: 3036340009315734742
+    second: more_ground_redone_34
+  - first:
+      213: 1017103362514647440
+    second: more_ground_redone_35
+  - first:
+      213: 9047091820680599241
+    second: more_ground_redone_36
+  - first:
+      213: -5868115411684720793
+    second: more_ground_redone_37
+  - first:
+      213: 3326245195770863908
+    second: more_ground_redone_38
+  - first:
+      213: -4171712443573051820
+    second: more_ground_redone_39
+  - first:
+      213: -749403388825689817
+    second: more_ground_redone_40
+  - first:
+      213: 8324006774976639521
+    second: more_ground_redone_41
+  - first:
+      213: -6514154344583804889
+    second: more_ground_redone_42
+  - first:
+      213: -1021405268342801525
+    second: more_ground_redone_43
+  - first:
+      213: 5825472999707925948
+    second: more_ground_redone_44
+  - first:
+      213: 2020987245633705816
+    second: more_ground_redone_45
+  - first:
+      213: -5010417566245755856
+    second: more_ground_redone_46
+  - first:
+      213: 18055009592671448
+    second: more_ground_redone_47
+  - first:
+      213: 2465827960660274838
+    second: more_ground_redone_48
+  - first:
+      213: 4049884299698260667
+    second: more_ground_redone_49
+  - first:
+      213: -5853364777359689501
+    second: more_ground_redone_50
+  - first:
+      213: 5165303981285926490
+    second: more_ground_redone_51
+  - first:
+      213: 8935147248739228705
+    second: more_ground_redone_52
+  - first:
+      213: 1516955182045997461
+    second: more_ground_redone_53
+  - first:
+      213: -2600064756870186232
+    second: more_ground_redone_54
+  - first:
+      213: -6764780519740095915
+    second: more_ground_redone_55
+  - first:
+      213: 5667654213493353954
+    second: more_ground_redone_56
+  - first:
+      213: 3669395140763126837
+    second: more_ground_redone_57
+  - first:
+      213: -6018300291644462473
+    second: more_ground_redone_58
+  - first:
+      213: 8936306192760734175
+    second: more_ground_redone_59
+  - first:
+      213: 3640786277840527654
+    second: more_ground_redone_60
+  - first:
+      213: -6652865906283429027
+    second: more_ground_redone_61
+  - first:
+      213: 4325791408663545589
+    second: more_ground_redone_62
+  - first:
+      213: -4574001111944619595
+    second: more_ground_redone_63
+  - first:
+      213: 1149141672076476786
+    second: more_ground_redone_64
+  - first:
+      213: 5915109279193136282
+    second: more_ground_redone_65
+  - first:
+      213: -8316794451481032305
+    second: more_ground_redone_66
+  - first:
+      213: 709835124274199262
+    second: more_ground_redone_67
+  - first:
+      213: -3754768223408815302
+    second: more_ground_redone_68
+  - first:
+      213: 134604382507155964
+    second: more_ground_redone_69
+  - first:
+      213: 5658747178342947145
+    second: more_ground_redone_70
+  - first:
+      213: -3657465894937909832
+    second: more_ground_redone_71
+  - first:
+      213: 7882320869365945177
+    second: more_ground_redone_72
+  - first:
+      213: 6056644935392423791
+    second: more_ground_redone_73
+  - first:
+      213: -264721193036803226
+    second: more_ground_redone_74
+  - first:
+      213: 608769689716523818
+    second: more_ground_redone_75
+  - first:
+      213: 7076625519017009842
+    second: more_ground_redone_76
+  - first:
+      213: -5575595933655060691
+    second: more_ground_redone_77
+  - first:
+      213: -8394119584765796161
+    second: more_ground_redone_78
+  - first:
+      213: -4477256501830264089
+    second: more_ground_redone_79
+  - first:
+      213: -4634426150994746895
+    second: more_ground_redone_80
+  - first:
+      213: 995446661493487204
+    second: more_ground_redone_81
+  - first:
+      213: -5803777255720419302
+    second: more_ground_redone_82
+  - first:
+      213: -5006062750722091579
+    second: more_ground_redone_83
+  - first:
+      213: -4847145649257158496
+    second: more_ground_redone_84
+  - first:
+      213: -5633400250552513097
+    second: more_ground_redone_85
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: more_ground_redone_0
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1898
+        width: 186
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492c3413e38f7c6478af553b432e288d
+      internalID: -5291674572617176439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_1
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1820
+        width: 454
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860e0111da16fb144b11af71cafa5134
+      internalID: 954619619379180287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1666
+        width: 897
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d5bed69bc7e16449b667a57f966498
+      internalID: -7661217824062436610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_3
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1747
+        width: 520
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a0f62256dfcfc4e902a35bef2f73df
+      internalID: -1580877099945400408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_4
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1546
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276e2bb9602e3b34897846d88bc41db6
+      internalID: -4697073889009148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_5
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1546
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e157b227bfebb9345a068354f5256011
+      internalID: 4208455542037465948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_6
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1548
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a85ad35bd84aa94681b32457ce5142a
+      internalID: 5379528325260395772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_7
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1546
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1d2c70143645f48af7851f33989b93
+      internalID: 8933673519549040873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_8
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1546
+        width: 7
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da7bac52bd88d540ad18b63e14d88e5
+      internalID: -4100872259001621337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_9
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1546
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2aed1b859c0e5645a7f05b50c00b820
+      internalID: -1468959085778969262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_10
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1521
+        width: 207
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46458bf792549d42b83541e2f8f1f58
+      internalID: -9168330278286208928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_11
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1559
+        width: 69
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf494ccf64cb81f4892e042ea998232c
+      internalID: -461227105197496648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_12
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1522
+        width: 69
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d321ef4919bbdca42a1264d0c9c8e548
+      internalID: -8093913582393135392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_13
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1522
+        width: 526
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e7253e6d42bc148ad2d115d47d5d5e
+      internalID: 1214164149439256155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_14
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1471
+        width: 10
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d405343f2d503db45bbca7bb76575301
+      internalID: 8253188677168505487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_15
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1476
+        width: 7
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85abb1561ca8ad0418324a8ca11f2f4c
+      internalID: 180785767976457940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_16
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1473
+        width: 10
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7e5f791d102a04584d1c4ee15ffa1b
+      internalID: 7201221346305844171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_17
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1471
+        width: 13
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b86e36126ef734fa20b5dab6af7cbb
+      internalID: 8605588040525597750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_18
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1473
+        width: 7
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfc11cd97bd1804391b878248a983a0
+      internalID: -8227242239638649284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_19
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1473
+        width: 8
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7cc286683d55b428314ababeebcac9
+      internalID: -5840431712146902515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_20
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1471
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a71b77bcd486141bffefa513eab59d
+      internalID: 7712745504575166499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_21
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1471
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292021cde86b3d741af54ba3ce1cedea
+      internalID: 6590731564064537389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_22
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1471
+        width: 13
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9f9e6dcef05204e8ff236d24b10859
+      internalID: 7269015508116805415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1471
+        width: 5
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a03a8114e87e2643adc49a292172b37
+      internalID: -3770565915976017789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_24
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1473
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3634bf16adb204da07ba70f0ddf12e
+      internalID: 1115497061712012547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_25
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1473
+        width: 8
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cc232f857424f4b9493da5934933c0
+      internalID: 1848404042544477501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_26
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1445
+        width: 12
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7606232ea181d1a4b989f005d9c93a71
+      internalID: 8851008367657697254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_27
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1445
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4902edf09dfbe794da01634447d2025f
+      internalID: 2685352372021740808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_28
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1445
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4593603b174602341b2d008f6d70cbbf
+      internalID: -4001178041198786747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_29
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1448
+        width: 8
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94ac343068fc1b4db490d4605be0f50
+      internalID: 5158959744357698846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_30
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1448
+        width: 7
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96adc19506163848bbe5de3973f6f28
+      internalID: 1515187765256676510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_31
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1445
+        width: 12
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3aacd14cd45c4f42aaa328dd4960017
+      internalID: -1412689247518848216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_32
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1448
+        width: 10
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3cda58bdd3cf1347affbdfd86c68e89
+      internalID: -7256912925796160792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_33
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1450
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa117fec365a4d94ea51c2d201ec29a6
+      internalID: -5147935288412724545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_34
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1445
+        width: 10
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee54b6f5ea99e0847958e875a6bfde63
+      internalID: 3036340009315734742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_35
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1449
+        width: 207
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d6cb30268331c4b99a2f25d739e7e4
+      internalID: 1017103362514647440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_36
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1448
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7749e3a7964104b41a2f18e2e7baae7a
+      internalID: 9047091820680599241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_37
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1448
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1449ba45c73e0d242a770f44fe0d3c6f
+      internalID: -5868115411684720793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_38
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1445
+        width: 5
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7f4c0248374814ebe275c76f736cff
+      internalID: 3326245195770863908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_39
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1397
+        width: 78
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2b9d08e2e073d4ea2809e66c6525e7
+      internalID: -4171712443573051820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_40
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1249
+        width: 939
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5360da8e59d03b48833c83d5f7af58d
+      internalID: -749403388825689817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_41
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1397
+        width: 78
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225df1703a32760468c28961ea321791
+      internalID: 8324006774976639521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_42
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1314
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d685475c4d28eb144a3f84b209144b9a
+      internalID: -6514154344583804889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_43
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1314
+        width: 8
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc1ad1100250514eb4382c8b82d217a
+      internalID: -1021405268342801525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_44
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1314
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d879ff92b2d0c54c96effd5891c5aa7
+      internalID: 5825472999707925948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_45
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1317
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbe5e768a9037946a8f0a392936c41a
+      internalID: 2020987245633705816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_46
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1314
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82d67bc73f991145a23f089c836c0e5
+      internalID: -5010417566245755856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_47
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1314
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfdaca01dbe4f43478d674fc09d94745
+      internalID: 18055009592671448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_48
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1326
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3544f77f7d3604eae614099aafc27a
+      internalID: 2465827960660274838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_49
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1324
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2418d0531741a8d4ab5007ed4b38596e
+      internalID: 4049884299698260667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_50
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1319
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43eec0226f4a154e99d00fbeac77428
+      internalID: -5853364777359689501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_51
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1326
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1660c4c6b334461469c634ad8c346760
+      internalID: 5165303981285926490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_52
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1314
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8676d698f1969364cab602d52d399c58
+      internalID: 8935147248739228705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_53
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1317
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f1227dcac86e946bc040487bf0f8c4
+      internalID: 1516955182045997461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_54
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1321
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b97d7981ddb4d49ba74d0baa268c0a
+      internalID: -2600064756870186232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_55
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1307
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50c248c8cf4c9a42a81b8469b61ddc3
+      internalID: -6764780519740095915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_56
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1312
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af34a1cb0690f2b4a94574c03bbcb703
+      internalID: 5667654213493353954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_57
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1303
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608d6b297de4b784f9733c9a6aec68ca
+      internalID: 3669395140763126837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_58
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1307
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a1860c8dc428d4dbaf0723d4944fd5
+      internalID: -6018300291644462473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_59
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1303
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04529dafc4da40847aec28f1e480e578
+      internalID: 8936306192760734175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_60
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1300
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936448fd7e65a3443867cfbca26be190
+      internalID: 3640786277840527654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_61
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1303
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b680147690aca498f4d125f1bb5a56
+      internalID: -6652865906283429027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_62
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1298
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62564aecfec4b1e4c85bd33fa8f78ca6
+      internalID: 4325791408663545589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_63
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1298
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d796c8bfc86d243bfa3f15b6440fd9
+      internalID: -4574001111944619595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 949
+        width: 1500
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865ae7a8021765042bcff6ab6f6f8818
+      internalID: 1149141672076476786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_65
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 811
+        width: 415
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcedc7266f42a914faca5f7e50c2d331
+      internalID: 5915109279193136282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_66
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 781
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114e3a3fdc34ef245ad16e26dcc62cd9
+      internalID: -8316794451481032305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_67
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 781
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8275c0cb82e90a1499e773d485033875
+      internalID: 709835124274199262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_68
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 781
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a9680e4c3a84747b81adcf92887f8d
+      internalID: -3754768223408815302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_69
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 781
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa1600a290ce0d419e8eb6155fa2414
+      internalID: 134604382507155964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_70
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 781
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349be4f11959b0049a003cd1def8cf93
+      internalID: 5658747178342947145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_71
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 781
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2c1353e0da40c419d7bdbb91a6f12c
+      internalID: -3657465894937909832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_72
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 769
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f37569688d9414294c5f173994c245
+      internalID: 7882320869365945177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_73
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 781
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23f0b66856fb9c46a006e96aa9640fb
+      internalID: 6056644935392423791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_74
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 781
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498beccd0d7529c49a4549fc73f7d408
+      internalID: -264721193036803226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_75
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 769
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1900eb7d43034b94b84c5c70de9d8eec
+      internalID: 608769689716523818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_76
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 769
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200121e8dac5dc24c9e4f6f200db1fb7
+      internalID: 7076625519017009842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_77
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 769
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8486e78421046094c9e33c66300483c0
+      internalID: -5575595933655060691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_78
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 556
+        width: 753
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e2b476bd6acab4c93a13ca989cd8f5
+      internalID: -8394119584765796161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_79
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 595
+        width: 524
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7a3755b80dbde42bf5f5327895d40b
+      internalID: -4477256501830264089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_80
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 340
+        width: 944
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec492b371784cc742959f02e6c4b2572
+      internalID: -4634426150994746895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_81
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 431
+        width: 348
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35906d4574504464bac7a4653b1b2057
+      internalID: 995446661493487204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_82
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 198
+        width: 595
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686bd8811bf14e5418843747b893b17d
+      internalID: -5803777255720419302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_83
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 275
+        width: 338
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494bf078e3acb294e8559c1028ce4c53
+      internalID: -5006062750722091579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_84
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 24
+        width: 603
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e508f1259a285714b9573713545e3924
+      internalID: -4847145649257158496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: more_ground_redone_85
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 120
+        width: 525
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe31e953d253734f9754b8addb4c26f
+      internalID: -5633400250552513097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
